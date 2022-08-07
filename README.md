@@ -16,4 +16,6 @@ It can be achieved by implementing a deep learning algorithm named YOLO algorith
 Crowd Counting, 
 Self-Driving Cars, 
 Video Surveillance, 
-Anomaly detection.
+Anomaly detection, 
+autonomous traffic monitoring,
+agricultural purposes.
