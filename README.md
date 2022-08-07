@@ -19,3 +19,5 @@ Crowd Counting,
 Video Surveillance, 
 Anomaly detection, 
 agricultural purposes.
+
+THIS REPOSITORY RUNS ONLY IN GOOGLE COLAB DUS TO USUAGE OF COLABORATORY COMMANDS.
