@@ -5,7 +5,7 @@ Every tracking mechanism requires object detection technique either in each fram
 #AIM of this project:
 	The project focuses on developing a model for detecting the objects in frame either it will be in image or video format, in order to resolve the issues occurred in previous ones such as
 ![image](https://user-images.githubusercontent.com/87767321/183275305-5775f3ed-ce1c-4527-88fc-1e6128be03ef.png)
-#OBJECTIVE:
+**#OBJECTIVE:**
 	The range of object detection is sky rocketing on daily basis in everyday life. The intent of our project is developing a model to detect objects with fast processing, high accuracy and more learning capabilities.
 It can be achieved by implementing a deep learning algorithm named YOLO algorithm which stands for You Only Look Once.
 ![image](https://user-images.githubusercontent.com/87767321/183275318-5f0581a4-c627-4f14-866f-c638a8945bc8.png)
