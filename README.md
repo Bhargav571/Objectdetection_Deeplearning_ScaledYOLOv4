@@ -13,9 +13,9 @@ It can be achieved by implementing a deep learning algorithm named YOLO algorith
 ![image](https://user-images.githubusercontent.com/87767321/183275318-5f0581a4-c627-4f14-866f-c638a8945bc8.png)
 
 **CAN BE APPLIED IN VARIOUS AREAS:**
-Crowd Counting, 
+autonomous traffic monitoring, 
 Self-Driving Cars, 
+Crowd Counting,  
 Video Surveillance, 
 Anomaly detection, 
-autonomous traffic monitoring,
 agricultural purposes.
